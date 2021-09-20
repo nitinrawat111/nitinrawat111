@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @nitinrawat111
-- 👀 I’m interested in Programming, Sleeping and relaxing.
-- 🌱 I’m currently an Undergrad College Student.
+- 👋 Nitin Singh Rawat
+- 👀 Interested in Programming, Sleeping and relaxing.
+- 🌱 Undergrad College Student.
+- 💼 Open to fresher level interships and job offers.
 - 📫 IG : https://www.instagram.com/rawat.nitin111/
+- 👨‍💻 HackerRank Profile : https://www.hackerrank.com/rawat_nitin111?hr_r=1
+- 👨‍💼 LinkedIn Profile : https://www.linkedin.com/in/nitin-rawat-464a5a1ba/
 
 <!---
 nitinrawat111/nitinrawat111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
