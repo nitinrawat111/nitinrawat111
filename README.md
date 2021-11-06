@@ -1,7 +1,6 @@
 - 👋 Nitin Singh Rawat
 - 👀 Interested in Programming, Sleeping and relaxing.
 - 🌱 Undergrad College Student.
-- 💼 Seeking fresher level interships and job offers.
 - 📫 IG : https://www.instagram.com/rawat.nitin111/
 - 👨‍💻 HackerRank Profile : https://www.hackerrank.com/rawat_nitin111?hr_r=1
 - 👨‍💼 LinkedIn Profile : https://www.linkedin.com/in/nitin-rawat-464a5a1ba/
