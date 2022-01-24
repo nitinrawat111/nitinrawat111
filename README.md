@@ -1,5 +1,5 @@
 - 👋 Nitin Singh Rawat
-- 👀 Interested in Programming, Sleeping and relaxing
+- 👀 Like solving problems on leetcode
 - 🌱 Undergrad College Student
 - 👨‍💼 LinkedIn Profile : https://www.linkedin.com/in/nitin-rawat-464a5a1ba/
 - 👨‍💻 HackerRank Profile : https://www.hackerrank.com/rawat_nitin111?hr_r=1
