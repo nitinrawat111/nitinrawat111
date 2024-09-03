@@ -1,9 +1,8 @@
 - 👋 Nitin Singh Rawat
-- 🌱 Undergrad College Student
-- 🕸 Currently Learning Full Stack Web Development
-- 👀 Likes solving problems on Leetcode
+- 🌱 Friendly Neighbourhood Developer
+- 👀 Likes solving problems and building new things
+- 🌐 Interested in learning about/solving scalability issues
 - 👨‍💼 LinkedIn Profile : https://www.linkedin.com/in/nitin-rawat-464a5a1ba/
-- 👨‍💻 HackerRank Profile : https://www.hackerrank.com/rawat_nitin111?hr_r=1
 - 🐱‍💻 Leetcode Profile : https://leetcode.com/nitin111/
 
 <!---
