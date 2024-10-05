@@ -1,9 +1,7 @@
 - 👋 Nitin Singh Rawat
-- 🌱 Friendly Neighbourhood Developer
-- 👀 Likes solving problems and building new things
-- 🌐 Interested in learning about/solving scalability issues
-- 👨‍💼 LinkedIn Profile : https://www.linkedin.com/in/nitin-rawat-464a5a1ba/
-- 🐱‍💻 Leetcode Profile : https://leetcode.com/nitin111/
+- 🌱 Backend Devloper / Audio Software Engineer
+- 👀 Likes building new things
+- 🌐 Zesty for writing clean code
 
 <!---
 nitinrawat111/nitinrawat111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
