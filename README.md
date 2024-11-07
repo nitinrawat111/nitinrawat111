@@ -1,5 +1,5 @@
 - 👋 Nitin Singh Rawat
-- 🌱 Backend Devloper / Audio Software Engineer
+- 🌱 Full Stack Devloper / Software Engineer
 - 👀 Likes building new things
 - 🌐 Zesty for writing clean code
 
